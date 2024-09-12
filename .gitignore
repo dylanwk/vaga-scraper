@@ -1,0 +1,42 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment folder
+venv/
+.env/
+
+# Pytest cache
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# MyPy cache
+.mypy_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+coverage.xml
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Environment variables
+.env
+
+# listing files
+*.txt
+*.csv
+
+# llm txt file
+glove.6B.50d.txt
+
+.DS_Store
